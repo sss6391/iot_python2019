@@ -40,3 +40,4 @@ while True:
         print("커피가 다 떨어졌습니다. 판매를 중지합니다")
         break
 
+print("프로그램 종료")
