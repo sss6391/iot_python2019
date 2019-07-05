@@ -1,16 +1,15 @@
+# coding: cp949
 def search_visitor(name):
-    file = open("ë°©ëª…ë¡", 'r', encoding ='utf8')
-    lists = file.read().splitlines()
-    name_split = list(lists)
+    file = open("¹æ¸í·Ï", 'r', encoding='utf8')
+    lists = str(file.read().splitlines())
+    name_split = lists.split(' ')
     file.close()
 
-
-
-name = str(input("ì´ë¦„ì„ ì…ë ¥í•˜ì„¸ìš”: "))
+name = input("ÀÌ¸§À» ÀÔ·ÂÇÏ¼¼¿ä: ")
 return_name = search_visitor(name)
 
 if return_name == True:
-    print("%s ë‹˜ ë‹¤ì‹œ ë°©ë¬¸í•´ ì£¼ì…”ì„¯ ê°ì‚¬í•©ë‹ˆë‹¤" %return_name)
+    print("%s ´Ô ´Ù½Ã ¹æ¹®ÇØ ÁÖ¼Å¼¸ °¨»çÇÕ´Ï´Ù" % return_name)
 elif return_name == '':
-    file = open("ë°©ëª…ë¡", 'a', encoding ='utf8')
+    file = open("¹æ¸í·Ï", 'a', encoding='utf8')
 
