@@ -9,12 +9,10 @@ def make_idol(candidate_list):
 def make_world_star(candidate_list):
     print("아이돌", candidate_list, "월드스타 등극")
 
-file = open("연습생.txt", 'r', encoding='utf8')
-candidates = file.read().splitlines()
-
-show_candidates(candidates)
-for idol in candidates:
-    make_idol(idol)
-for idol in candidates:
-    make_world_star(idol)
-file.close()
+with open("연습생.txt", 'r', encoding='utf8') as file:
+    candidates = file.read().splitlines()
+    show_candidates(candidates)
+    for idol in candidates:
+        make_idol(idol)
+    for idol in candidates:
+        make_world_star(idol)
