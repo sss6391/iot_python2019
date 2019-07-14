@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b225aa-d776-4024-8784-a60438c760a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/exam/Bulls_and_Cows_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/exam/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_Workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Workspace.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Jump_to_python/exam/game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Jump_to_python/exam/score1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Jump_to_python/exam/Bulls_and_Cows_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Jump_to_python/exam/Bulls_and_Cows_game.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +12,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01_Jump_to_python/exam/Bulls_and_Cows_game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="99" column="36" lean-forward="true" selection-start-line="99" selection-start-column="36" selection-end-line="99" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_Jump_to_python/exam/score1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,8 +98,8 @@
         <option value="$PROJECT_DIR$/01_Jump_to_python/exam/score2.txt" />
         <option value="$PROJECT_DIR$/01_Jump_to_python/exam/test.py" />
         <option value="$PROJECT_DIR$/01_Jump_to_python/exam/game.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/Bulls_and_Cows_game.py" />
         <option value="$PROJECT_DIR$/01_Jump_to_python/exam/score1.txt" />
+        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/Bulls_and_Cows_game.py" />
       </list>
     </option>
   </component>
@@ -99,7 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,13 +138,6 @@
               <item name="iot_python2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="iot_python2019" type="462c0819:PsiDirectoryNode" />
               <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
-              <item name="5_APP" type="462c0819:PsiDirectoryNode" />
-              <item name="5_native_function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iot_python2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iot_python2019" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
               <item name="exam" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -140,6 +149,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562832505511</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="7월 12일 토요일">
+      <created>1563002174708</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1563002174708</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -423,7 +440,8 @@
     <MESSAGE value="7월 9일 수업" />
     <MESSAGE value="7월 10일 오전정리" />
     <MESSAGE value="7월 11일 수업" />
-    <option name="LAST_COMMIT_MESSAGE" value="7월 11일 수업" />
+    <MESSAGE value="7월 12일 토요일" />
+    <option name="LAST_COMMIT_MESSAGE" value="7월 12일 토요일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -799,20 +817,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/exam/score2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/exam/score3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/exam/score2.txt" />
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/exam/score3.txt" />
     <entry file="file://$PROJECT_DIR$/01_Jump_to_python/exam/abc.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -849,15 +855,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01_Jump_to_python/exam/score1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01_Jump_to_python/exam/Bulls_and_Cows_game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3182">
-          <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        <state relative-caret-position="452">
+          <caret line="99" column="36" lean-forward="true" selection-start-line="99" selection-start-column="36" selection-end-line="99" selection-end-column="36" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

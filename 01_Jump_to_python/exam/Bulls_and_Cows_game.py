@@ -95,7 +95,9 @@ def game_start(correct_game_numbers, limit_try_num, level):
             print(f"시도 횟수: {user_try_num} 클리어 시간: {take_time}")
             print('\n'+'@'*15+'게임에서 이겼습니다. 축하드립니다!!' +'@'*15+ '\n')
             score_list = insert_score(user_try_num, level, str(take_time))               # 순위 입력 함수 호출
-            if score_list:                                                             # 수정된 리스트가 있을경우 작동
+            if score_list:                                                          # 수정된 리스트가 있을경우 작동
+                if len(score_list) > 10:                                            # 10명 이상 일경우 마지막 11등 삭제
+                    score_list.pop()
                 f_name = "score" + str(level) + '.txt'
                 file = open(f_name, 'w')
                 for r_list in score_list:
@@ -103,7 +105,7 @@ def game_start(correct_game_numbers, limit_try_num, level):
                 file.close()
             return
         # 게임마다 결과 공개
-        print(f"\nBulls: {Bulls} Cows: {Cows}\n 남은 횟수: {limit_try_num-user_try_num}")
+        print(f"\nBulls: {Bulls}  Cows: {Cows}  남은 횟수: {limit_try_num-user_try_num}")
     print('게임에서 졌습니다')
 
 def insert_score(try_num, level, t_time):
