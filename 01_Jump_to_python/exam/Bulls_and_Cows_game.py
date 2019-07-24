@@ -151,4 +151,3 @@ while True:
     else:
         print("1 또는 q 만 입력해주세요\n")
 
-
