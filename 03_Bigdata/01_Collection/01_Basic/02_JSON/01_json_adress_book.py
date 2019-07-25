@@ -214,13 +214,18 @@ except:
     while True:
         y_n = input('===해당파일이 없습니다.===\n 1.파일을 신규 생성\n 2. 파일 경로선택 ')
         if y_n == '1':
-           file_name = 'ITT_Student.json'
+           empty_str = ''
+           with open('ITT_Student.json', 'w', encoding='utf8') as outfile:
+               readable_result = json.dumps(empty_str, indent=4, sort_keys=True, ensure_ascii=False)
+               outfile.write(readable_result)
+           print('ITT_Student.json SAVED')
            break
         elif y_n == '2':
-            pass
-    empty_str = ''
-    with open(file_name, 'w', encoding='utf8') as outfile:
-        readable_result = json.dumps(empty_str,indent=4, sort_keys=True, ensure_ascii=False)
-        outfile.write(readable_result)
-    print('ITT_Student.json SAVED')
+            directory_file = input("파일 경로를 선택해주세요")
+            with open(directory_file+"ITT_Student.json", encoding="utf-8") as json_data:
+                json_data = json.load(json_data)
+                json_data_string = json.dumps(json_data)
+                datas = json.loads(json_data_string)
+            break
+        print("\n1 혹은 2 입력해주세요\n")
 main(datas)
