@@ -1,0 +1,17 @@
+import re
+p = re.compile(r'\bclass\b')
+m = p.search('no class at all')
+print(m)
+m = p.search('the declassified algorithm')
+print(m)
+m = p.search('one subclass is')
+print(m)
+
+print('')
+p = re.compile(r'\Bclass\B')
+m = p.search('no class at all')
+print(m)
+m = p.search('the declassified algorithm')
+print(m)
+m = p.search('one subclass is')
+print(m)

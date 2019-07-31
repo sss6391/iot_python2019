@@ -2,89 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b225aa-d776-4024-8784-a60438c760a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/01_json_adress_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/ITT_Student.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver/02_NEWS_Analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/fine_dust.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/get_weather_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/01_regident_registration_number_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/02_regident_registration_number_python_re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/03_293.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/04_294_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/05_294_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/06_294_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/07_294_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/08_295.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/09_296.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/10_296_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/11_297.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/12_299_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/13_300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/14_300_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/15_301.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/16_302.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/17_303_DOTALL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/18_304.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/19_305_MULTILINE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/20_307_back_slash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/21_309.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/22_310.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/23_311.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/01_basic_simulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/02_basic_threading_simulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/test_IOT_simulator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/10_Readable_Korean.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/10_Readable_Korean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/11_Read_Korean.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/11_Read_Korean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/1_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/1_basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/2_subelement.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/2_subelement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/3_insert_remove.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/3_insert_remove.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/4_attribute.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/4_attribute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/5_Element_with_attribute.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/5_Element_with_attribute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/6_change_value_to_attribute.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/6_change_value_to_attribute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/7_complete_with_indentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/7_complete_with_indentation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/8_XML_Parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/8_XML_Parsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/9_Korean.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/9_Korean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/Korean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/Korean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/Korean2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/Korean2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/bigdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/bigdata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/bigdata2.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/bigdata2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/n.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/n.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/students_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/students_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/students_info2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/students_info2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/ITT_Student.json">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="120">
-                    <caret line="62" selection-start-line="62" selection-end-line="62" />
-                    <folding>
-                      <element signature="e#6#548#0" />
-                      <element signature="e#554#1364#0" />
-                      <element signature="e#1370#1889#0" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/01_json_adress_book.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="214" column="43" lean-forward="true" selection-start-line="214" selection-start-column="43" selection-end-line="214" selection-end-column="43" />
-              <folding>
-                <element signature="e#25#119#0" />
-                <element signature="e#143#281#0" />
-                <element signature="e#750#1972#0" />
-                <element signature="e#5342#7545#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/I_Student.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,137 +49,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/주소록.txt" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/teest2.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/test.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/abc.txt" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/q8_1.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/q16.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/address book.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/score1.txt" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/q13.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/game.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/exam/Bulls_and_Cows_game.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/RP_Test/Remote_Test.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/1_LED/1_238.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/2_Button/247.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/2_Button/251.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/2_temp_S.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/temp_sensor.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/LCD.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/LCD_2.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/pppp.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/sonud.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/master.py" />
-        <option value="$PROJECT_DIR$/controller.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/sonud_2.py" />
-        <option value="$PROJECT_DIR$/02_Rasberry_Pi/LCD_controller.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/1_basic.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/2_subelement.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/3_insert_remove.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/4_attribute.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/5_Element_with_attribute.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/6_change_value_to_attribute.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/9_Korean.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/Korean.xml" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/Korean2.xml" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/11_Read_Korean.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/8_XML_Parsing.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/test.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/bigdata.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/students_info.xml" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/7_complete_with_indentation.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/note.xml" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/10_Readable_Korean.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/bigdata2.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML/n.xml" />
-        <option value="$USER_HOME$/Desktop/01_NEWS_search.py" />
-        <option value="$USER_HOME$/Desktop/02_NEWS_Analysis.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver/search.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver/02_NEWS_Analysis.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/test.py" />
-        <option value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/01_json_adress_book.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1237" />
-    <option name="height" value="909" />
-  </component>
+  <component name="ProjectId" id="1Oi0Etahi96Oz3aHEK9MlkJcWMg" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Bigdata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="02_JSON" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="02_OpenAPI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="02_OpenAPI" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Naver" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_XML" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -238,18 +71,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Regular_Expression\01_Basic" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\01_XML" />
       <recent name="C:\Python_Workspace\02_Rasberry_Pi" />
       <recent name="C:\Python_Workspace\01_Jump_to_python\exam" />
       <recent name="C:\Python_Workspace\01_Jump_to_python\5_APP\5_native_function" />
-      <recent name="C:\Python_Workspace\01_Jump_to_python\5_APP\6_Sove_the_problem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Regular_Expression\test" />
+      <recent name="C:\Python_Workspace" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\01_Basic\02_JSON" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\01_Basic" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\01_XML" />
-      <recent name="C:\Python_Workspace\01_Jump_to_python" />
-      <recent name="C:\Python_Workspace\01_Jump_to_python\5_APP\5_native_function" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -264,8 +97,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01_json_adress_book">
-    <configuration name="01_NEWS_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py" />
+      <option name="SCRIPT_NAME" value="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Regular_Expression\test\test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_json_adress_book" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/01_json_adress_book.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/test/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_NEWS_Analysis (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="23_311" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver/02_NEWS_Analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/23_311.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Python_Workspace\03_Bigdata\01_Collection\02_OpenAPI\01_Naver\02_NEWS_Analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/test/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/test.py" />
+      <option name="SCRIPT_NAME" value="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Regular_Expression\test\test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,19 +204,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.01_NEWS_search" />
-      <item itemvalue="Python.search" />
-      <item itemvalue="Python.02_NEWS_Analysis (1)" />
+      <item itemvalue="Python.23_311" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.01_json_adress_book" />
+      <item itemvalue="Python.2" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.test (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01_json_adress_book" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.2" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.01_NEWS_search" />
-        <item itemvalue="Python.02_NEWS_Analysis (1)" />
-        <item itemvalue="Python.search" />
+        <item itemvalue="Python.23_311" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +301,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563926810207</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="7월 25일">
+      <created>1564042761661</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1564042761661</updated>
+    </task>
+    <task id="LOCAL-00012" summary="7월 25일 2">
+      <created>1564043070672</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1564043070672</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -480,28 +327,18 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1504777" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.17257144" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.68949044" visible="true" weight="0.068571426" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49920383" weight="0.128" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914287" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.052508753" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32914287" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.31050956" side_tool="true" weight="0.09371429" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3782857" />
-      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.23644252" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="최초 반영" />
@@ -511,7 +348,9 @@
     <MESSAGE value="7월 10일 오전정리" />
     <MESSAGE value="7월 11일 수업" />
     <MESSAGE value="7월 23일" />
-    <option name="LAST_COMMIT_MESSAGE" value="7월 23일" />
+    <MESSAGE value="7월 25일" />
+    <MESSAGE value="7월 25일 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="7월 25일 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -564,6 +403,11 @@
           <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py</url>
           <line>61</line>
           <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/02_regident_registration_number_python_re.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="70" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -621,373 +465,6 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02_Rasberry_Pi/2_Button/247.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Rasberry_Pi/2_Button/251.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Rasberry_Pi/temp_sensor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/5_APP/RP_Test/Remote_Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Rasberry_Pi/master.py" />
-    <entry file="file://$PROJECT_DIR$/02_Rasberry_Pi/pppp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Rasberry_Pi/LCD_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Rasberry_Pi/sonud.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Rasberry_Pi/sonud_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Rasberry_Pi/LCD_controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Rasberry_Pi/LCD.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/8_XML_Parsing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/6_change_value_to_attribute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/5_Element_with_attribute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/7_complete_with_indentation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/2_subelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/4_attribute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/3_insert_remove.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/10_Readable_Korean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/11_Read_Korean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/students_info2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="60" column="19" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/xml/etree/ElementTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-958">
-          <caret line="597" column="45" lean-forward="true" selection-start-line="597" selection-start-column="45" selection-end-line="597" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/_strptime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="576" selection-start-line="576" selection-end-line="576" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/students_info.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/01_NEWS_search.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="292" selection-start-line="292" selection-end-line="292" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/01_NEWS_search (1).py" />
-    <entry file="file://$USER_HOME$/Desktop/practice.py" />
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver/아베_naver_news.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/n.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/note.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="23" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/1_basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/bigdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/Korean.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/9_Korean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/bigdata2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/Korean2.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/01_XML/Korean3.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver/02_NEWS_Analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/01_Naver/01_NEWS_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="68" column="56" selection-start-line="68" selection-start-column="56" selection-end-line="68" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/Io.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/02_NEWS_Analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="96" column="78" lean-forward="true" selection-start-line="96" selection-start-column="78" selection-end-line="96" selection-end-column="78" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/ITT_Student.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="e#6#548#0" />
-            <element signature="e#554#1364#0" />
-            <element signature="e#1370#1889#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/I_Student.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Bigdata/01_Collection/01_Basic/02_JSON/01_json_adress_book.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="214" column="43" lean-forward="true" selection-start-line="214" selection-start-column="43" selection-end-line="214" selection-end-column="43" />
-          <folding>
-            <element signature="e#25#119#0" />
-            <element signature="e#143#281#0" />
-            <element signature="e#750#1972#0" />
-            <element signature="e#5342#7545#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
