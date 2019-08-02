@@ -1,0 +1,4202 @@
+[
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "LGT",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "PTY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "RN1",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "SKY",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 34,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 33,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "T1H",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 32,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 60,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "REH",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 65,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.2,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "UUU",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 2.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 2.1,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 2.7,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VVV",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 3.3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 225,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 219,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "VEC",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 215,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1600,
+        "fcstValue": 3,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1700,
+        "fcstValue": 3.5,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190730,
+        "baseTime": 1530,
+        "category": "WSD",
+        "fcstDate": 20190730,
+        "fcstTime": 1800,
+        "fcstValue": 4,
+        "nx": 89,
+        "ny": 91
+    }
+]
