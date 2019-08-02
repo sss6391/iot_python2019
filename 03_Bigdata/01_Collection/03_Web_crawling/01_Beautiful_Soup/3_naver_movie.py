@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup
 
 html = urllib.request.urlopen('http://movie.naver.com/movie/sdb/rank/rmovie.nhn')
 soup = BeautifulSoup(html,'html.parser')
-# print(soup)
-# print(soup.prettify()) # 원본 HTML의 indentation에 맞게 변경
 
 movies_ranks = []
 trs = soup.tbody.find_all('tr')
@@ -21,7 +19,6 @@ for tr in trs:
         index = index+1
 
 print(movies_ranks)
-
 f = open('output.csv', 'w', encoding='utf-8')
 f.write('순위 |    영화명     |변동폭\n')
 for m in movies_ranks:
@@ -31,7 +28,6 @@ for m in movies_ranks:
     f.write(m[2].center(5))
     f.write('\n')
 f.close()
-
 
 # 과제
 # 네이버 영화 랭킹 웹페이지를 분석하여 아래 형식으로 csv 파일을 생성하시오

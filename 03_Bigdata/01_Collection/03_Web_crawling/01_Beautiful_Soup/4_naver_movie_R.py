@@ -10,14 +10,14 @@ movies_ranks = []
 index = 1
 for tr in trs:
     up_down = re.findall(r'alt="(\w+)"', str(tr))
-    title = re.findall(r'title=".+">(.+)</a>', str(tr))
-    fl_num = re.findall(r'<td class="range ac">(\d?)<', str(tr))
+    title = re.search(r'title=".+">(.+)</a>', str(tr))
+    fl_num = re.search(r'<td class="range ac">(\d?)<', str(tr))
     if title:
         if up_down[1] == 'up':          up_down = '+'
         elif up_down[1] == 'down':      up_down = '-'
         else:                           up_down = ''
-        movies_ranks.append([str(index), title[0], up_down+fl_num[0]])
-        index = index +1
+        movies_ranks.append([str(index), title.group(1), up_down+fl_num.group(1)])
+        index = index + 1
 print(movies_ranks)
 
 f = open('output_r.csv', 'w', encoding='utf-8')

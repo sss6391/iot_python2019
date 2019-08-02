@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b225aa-d776-4024-8784-a60438c760a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/1_BeautifulSoup_html.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/2_get_html.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/3_naver_movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/4_naver_movie_R.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/00_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/01_312.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/02_312_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/03_313_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/04_314_Backreferences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/05_315_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/06_316_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/08_318_Negative_Lookahead_Aseertions_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/08_318_Negative_Lookahead_Aseertions_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/09_318.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/10_319.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/11_319_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/12_320.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/328_test_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/02_Intermediate/329_test_21.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/02_Regular_Expression/01_Basic/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/3_naver_movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/3_naver_movie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/4_naver_movie_R.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/4_naver_movie_R.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3_naver_movie">
+  <component name="RunManager" selected="Python.4_naver_movie_R">
     <configuration name="1_BeautifulSoup_html" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,8 +187,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_naver_movie" />
         <item itemvalue="Python.4_naver_movie_R" />
+        <item itemvalue="Python.3_naver_movie" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.2_get_html" />
         <item itemvalue="Python.1_BeautifulSoup_html" />
@@ -316,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564561604700</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="8월 2일">
+      <created>1564730566055</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1564730566056</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -352,7 +340,8 @@
     <MESSAGE value="7월 25일" />
     <MESSAGE value="7월 25일 2" />
     <MESSAGE value="7월 31일" />
-    <option name="LAST_COMMIT_MESSAGE" value="7월 31일" />
+    <MESSAGE value="8월 2일" />
+    <option name="LAST_COMMIT_MESSAGE" value="8월 2일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -425,6 +414,11 @@
           <url>file://$PROJECT_DIR$/04_Application/01_Simulator/02_basic_threading_simulator.py</url>
           <line>22</line>
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/2_get_html.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
