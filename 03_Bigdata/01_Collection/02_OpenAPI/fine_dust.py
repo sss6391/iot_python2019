@@ -5,8 +5,8 @@ import time
 
 json_dust_result = []
 access_key =  'arUGyHfSIvuuisVWulspIDqDRNaEEkPTXBKzLni5OzcFJoxrCbEaywqixKDH%2F3wmqB8wEFFKci7512Q7q%2BwyiA%3D%3D'
-city_name = '%EB%8C%80%EA%B5%AC' # 대구
-city_name = '대구' # 대구
+# city_name = '%EB%8C%80%EA%B5%AC' # 대구
+city_name = '대구'
 
 def get_Requrest_URL(url):
     req = urllib.request.Request(url)
