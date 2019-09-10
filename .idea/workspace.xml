@@ -2,31 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b225aa-d776-4024-8784-a60438c760a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02_Rasberry_Pi/00_server_client/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Rasberry_Pi/00_server_client/pi_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Rasberry_Pi/00_server_client/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Rasberry_Pi/style_assist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Rasberry_Pi/style_assist_b3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Rasberry_Pi/style_assist_b4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Rasberry_Pi/style_assist_backup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Rasberry_Pi/style_assist_backup2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Rasberry_Pi/style_assist_voice_test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/3_naver_movie_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/ttest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/01_csv_simple_parsing_and_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/01_pandas_parsing_and_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/02_csv_reader_parsing_and_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/03_csv_reader_vale_meets_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/03_pandas_value_meets_condition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Rasberry_Pi/1_LED/1_238.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/238_led.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Rasberry_Pi/2_Button/247.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/247_button.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Rasberry_Pi/2_Button/251.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/251_button.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Rasberry_Pi/LCD.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/LCD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Rasberry_Pi/LCD_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/LCD_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Rasberry_Pi/LCD_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/LCD_controller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Rasberry_Pi/pppp.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/pppp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Rasberry_Pi/sonud.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/sonud.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Rasberry_Pi/sonud_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/sonud_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Rasberry_Pi/temp_sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/temp_sensor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/fine_dust.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/fine_dust.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/output.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,8 +75,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.style_assist_voice_test1">
-    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10csv_reader_sum_average_from_multiple_files">
+    <configuration name="01_csv_simple_parsing_and_write" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,12 +84,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Rasberry_Pi/00_server_client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Rasberry_Pi/00_server_client/client.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/01_csv_simple_parsing_and_write.py" />
+      <option name="PARAMETERS" value="supplier_data.csv output_files/1_csv_output.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -116,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="style_assist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03_pandas_value_meets_condition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Rasberry_Pi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Rasberry_Pi/style_assist.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/03_pandas_value_meets_condition.py" />
+      <option name="PARAMETERS" value="supplier_data.csv output_files/3_pandas_meets_condition.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -137,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="style_assist_filnal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10csv_reader_sum_average_from_multiple_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +126,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Rasberry_Pi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Rasberry_Pi/style_assist_filnal.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/10csv_reader_sum_average_from_multiple_files.py" />
+      <option name="PARAMETERS" value=". output_files/10output_basic.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -158,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="style_assist_voice_test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10pandas_sum_average_from_multiple_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,12 +147,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Rasberry_Pi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Rasberry_Pi/style_assist_voice_test1.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/10pandas_sum_average_from_multiple_files.py" />
+      <option name="PARAMETERS" value="supplier_data.csv output_files/10output_pandas.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -179,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11csv_reader_select_contiguous_rows" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,12 +168,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Rasberry_Pi/sensor_acturator/test.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/11csv_reader_select_contiguous_rows.py" />
+      <option name="PARAMETERS" value="supplier_data_unnecessary_header_footer.csv output_files/11_csv.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -201,19 +182,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.client" />
-      <item itemvalue="Python.style_assist" />
-      <item itemvalue="Python.style_assist_filnal" />
-      <item itemvalue="Python.style_assist_voice_test1" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.01_csv_simple_parsing_and_write" />
+      <item itemvalue="Python.03_pandas_value_meets_condition" />
+      <item itemvalue="Python.11csv_reader_select_contiguous_rows" />
+      <item itemvalue="Python.10pandas_sum_average_from_multiple_files" />
+      <item itemvalue="Python.10csv_reader_sum_average_from_multiple_files" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.style_assist_voice_test1" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.style_assist_filnal" />
-        <item itemvalue="Python.style_assist" />
-        <item itemvalue="Python.client" />
+        <item itemvalue="Python.10csv_reader_sum_average_from_multiple_files" />
+        <item itemvalue="Python.10pandas_sum_average_from_multiple_files" />
+        <item itemvalue="Python.11csv_reader_select_contiguous_rows" />
+        <item itemvalue="Python.01_csv_simple_parsing_and_write" />
+        <item itemvalue="Python.03_pandas_value_meets_condition" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564732771409</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="9월 1일">
+      <created>1567988276332</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1567988276332</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,7 +356,8 @@
     <MESSAGE value="7월 25일 2" />
     <MESSAGE value="7월 31일" />
     <MESSAGE value="8월 2일" />
-    <option name="LAST_COMMIT_MESSAGE" value="8월 2일" />
+    <MESSAGE value="9월 1일" />
+    <option name="LAST_COMMIT_MESSAGE" value="9월 1일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -451,6 +440,11 @@
           <url>file://$PROJECT_DIR$/03_Bigdata/01_Collection/03_Web_crawling/01_Beautiful_Soup/3_naver_movie_1.py</url>
           <line>11</line>
           <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/10csv_reader_sum_average_from_multiple_files.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
