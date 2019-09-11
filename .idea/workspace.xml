@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b225aa-d776-4024-8784-a60438c760a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/01_csv_simple_parsing_and_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/01_pandas_parsing_and_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/02_csv_reader_parsing_and_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/03_csv_reader_vale_meets_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/03_pandas_value_meets_condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/02_Rasberry_Pi" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -75,8 +71,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10csv_reader_sum_average_from_multiple_files">
-    <configuration name="01_csv_simple_parsing_and_write" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.00_test (1)">
+    <configuration name="00_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,12 +80,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/01_csv_simple_parsing_and_write.py" />
-      <option name="PARAMETERS" value="supplier_data.csv output_files/1_csv_output.csv" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/00_test.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -97,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_pandas_value_meets_condition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="00_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,8 +105,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/03_pandas_value_meets_condition.py" />
-      <option name="PARAMETERS" value="supplier_data.csv output_files/3_pandas_meets_condition.csv" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/00_test.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -118,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10csv_reader_sum_average_from_multiple_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01_pandas_parsing_and_write" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,8 +126,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/10csv_reader_sum_average_from_multiple_files.py" />
-      <option name="PARAMETERS" value=". output_files/10output_basic.csv" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/01_pandas_parsing_and_write.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -139,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10pandas_sum_average_from_multiple_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5pandas_value_matches_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,8 +147,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/10pandas_sum_average_from_multiple_files.py" />
-      <option name="PARAMETERS" value="supplier_data.csv output_files/10output_pandas.csv" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/5pandas_value_matches_pattern.py" />
+      <option name="PARAMETERS" value="supplier_data.csv output_files/5_pan_output.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -160,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11csv_reader_select_contiguous_rows" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fine_dust" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,12 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/11csv_reader_select_contiguous_rows.py" />
-      <option name="PARAMETERS" value="supplier_data_unnecessary_header_footer.csv output_files/11_csv.csv" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/fine_dust.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -182,19 +178,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.01_csv_simple_parsing_and_write" />
-      <item itemvalue="Python.03_pandas_value_meets_condition" />
-      <item itemvalue="Python.11csv_reader_select_contiguous_rows" />
-      <item itemvalue="Python.10pandas_sum_average_from_multiple_files" />
-      <item itemvalue="Python.10csv_reader_sum_average_from_multiple_files" />
+      <item itemvalue="Python.5pandas_value_matches_pattern" />
+      <item itemvalue="Python.00_test" />
+      <item itemvalue="Python.fine_dust" />
+      <item itemvalue="Python.01_pandas_parsing_and_write" />
+      <item itemvalue="Python.00_test (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10csv_reader_sum_average_from_multiple_files" />
-        <item itemvalue="Python.10pandas_sum_average_from_multiple_files" />
-        <item itemvalue="Python.11csv_reader_select_contiguous_rows" />
-        <item itemvalue="Python.01_csv_simple_parsing_and_write" />
-        <item itemvalue="Python.03_pandas_value_meets_condition" />
+        <item itemvalue="Python.00_test (1)" />
+        <item itemvalue="Python.00_test" />
+        <item itemvalue="Python.01_pandas_parsing_and_write" />
+        <item itemvalue="Python.fine_dust" />
+        <item itemvalue="Python.5pandas_value_matches_pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567988276332</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="9월 10일">
+      <created>1568100337896</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1568100337897</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,7 +360,8 @@
     <MESSAGE value="7월 31일" />
     <MESSAGE value="8월 2일" />
     <MESSAGE value="9월 1일" />
-    <option name="LAST_COMMIT_MESSAGE" value="9월 1일" />
+    <MESSAGE value="9월 10일" />
+    <option name="LAST_COMMIT_MESSAGE" value="9월 10일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
