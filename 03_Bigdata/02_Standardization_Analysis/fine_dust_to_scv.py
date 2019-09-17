@@ -6,7 +6,7 @@ import csv
 json_dust_result = []
 access_key =  'arUGyHfSIvuuisVWulspIDqDRNaEEkPTXBKzLni5OzcFJoxrCbEaywqixKDH%2F3wmqB8wEFFKci7512Q7q%2BwyiA%3D%3D'
 city_name = '대구'
-header_list = ['stationName', 'coValue', ]
+# header_list = ['stationName', 'coValue', ]
 
 def get_Requrest_URL(url):
     req = urllib.request.Request(url)

@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b225aa-d776-4024-8784-a60438c760a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/10excel_column_by_name_all_worksheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/1excel_introspect_workbook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/2excel_parsing and_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/3excel_parsing and_write_keep_dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/3pandas_parsing and_write_keep_dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/4excel_value_meets_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/4pandasl_value_meets_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/5excel_value_in_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/5pandas_value_in_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/6excel_value_matches_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/6pandas_value_matches_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/7excel_column_by_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/7pandas_column_by_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/8excel_column_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/8pandas_column_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/9excel_value_meet_condition_all_worksheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/9pandasl_value_meet_condition_all_worksheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/5_Distributed_Repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/6_Distributed_Repository.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/00_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/fine_dust_to_scv.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +51,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_Rasberry_Pi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
@@ -52,11 +72,11 @@
       <recent name="C:\Python_Workspace" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\2. Excel" />
+      <recent name="C:\Python_Workspace\04_Application\02_Distributed_Repository" />
       <recent name="C:\Python_Workspace\02_Rasberry_Pi" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\01_Beautiful_Soup" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Regular_Expression\02_Intermediate" />
-      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Regular_Expression\01_Basic" />
-      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\01_XML" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -71,8 +91,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.00_test (1)">
-    <configuration name="00_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.9excel_value_meet_condition_all_worksheets">
+    <configuration name="8excel_column_by_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,12 +100,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/00_test.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/8excel_column_by_name.py" />
+      <option name="PARAMETERS" value="sales_2013.xlsx out_file/8outfile_basic.xls" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -93,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="00_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8excel_value_meet_condition_all_worksheets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,12 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/00_test.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\2. Excel\9excel_value_meet_condition_all_worksheets.py" />
+      <option name="PARAMETERS" value="sales_2013.xlsx out_file/9outfile_basic.xls" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -114,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_pandas_parsing_and_write" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8pandas_column_by_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,12 +142,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/01_pandas_parsing_and_write.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/8pandas_column_by_name.py" />
+      <option name="PARAMETERS" value="sales_2013.xlsx out_file/8pandas_basic.xls" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -135,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5pandas_value_matches_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9excel_value_meet_condition_all_worksheets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,12 +163,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/1. CSV/5pandas_value_matches_pattern.py" />
-      <option name="PARAMETERS" value="supplier_data.csv output_files/5_pan_output.csv" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/9excel_value_meet_condition_all_worksheets.py" />
+      <option name="PARAMETERS" value="sales_2013.xlsx out_file/9outfile_basic.xls" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -156,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fine_dust" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9pandasl_value_meet_condition_all_worksheets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,12 +184,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/01_Collection/02_OpenAPI/fine_dust.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/9pandasl_value_meet_condition_all_worksheets.py" />
+      <option name="PARAMETERS" value="sales_2013.xlsx out_file/9pandas_basic.xls" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -178,19 +198,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5pandas_value_matches_pattern" />
-      <item itemvalue="Python.00_test" />
-      <item itemvalue="Python.fine_dust" />
-      <item itemvalue="Python.01_pandas_parsing_and_write" />
-      <item itemvalue="Python.00_test (1)" />
+      <item itemvalue="Python.8excel_column_by_name" />
+      <item itemvalue="Python.8pandas_column_by_name" />
+      <item itemvalue="Python.8excel_value_meet_condition_all_worksheets" />
+      <item itemvalue="Python.9pandasl_value_meet_condition_all_worksheets" />
+      <item itemvalue="Python.9excel_value_meet_condition_all_worksheets" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.00_test (1)" />
-        <item itemvalue="Python.00_test" />
-        <item itemvalue="Python.01_pandas_parsing_and_write" />
-        <item itemvalue="Python.fine_dust" />
-        <item itemvalue="Python.5pandas_value_matches_pattern" />
+        <item itemvalue="Python.9excel_value_meet_condition_all_worksheets" />
+        <item itemvalue="Python.9pandasl_value_meet_condition_all_worksheets" />
+        <item itemvalue="Python.8excel_value_meet_condition_all_worksheets" />
+        <item itemvalue="Python.8pandas_column_by_name" />
+        <item itemvalue="Python.8excel_column_by_name" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568100337897</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="9월 11일">
+      <created>1568183655937</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1568183655937</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,7 +388,8 @@
     <MESSAGE value="8월 2일" />
     <MESSAGE value="9월 1일" />
     <MESSAGE value="9월 10일" />
-    <option name="LAST_COMMIT_MESSAGE" value="9월 10일" />
+    <MESSAGE value="9월 11일" />
+    <option name="LAST_COMMIT_MESSAGE" value="9월 11일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -450,8 +478,43 @@
           <line>1</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_Application/02_Distributed_Repository/5_Distributed_Repository.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/3excel_parsing and_write_keep_dates.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/4excel_value_meets_condition.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/7excel_column_by_index.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/9excel_value_meet_condition_all_worksheets.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/9excel_value_meet_condition_all_worksheets.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="row_list_output" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>
