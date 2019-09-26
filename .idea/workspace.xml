@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b225aa-d776-4024-8784-a60438c760a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/12excel_introspect_all_workbooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/13excel_concat_data_from_multiple_workbooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/13pandas_concat_data_from_multiple_workbooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/2. Excel/14excel_sum_average_multiple_workbooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/1db_count_rows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/1db_sqllite_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/2db_insert_rows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/2db_non_volatile_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/3db_select_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/4db_delete_row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/3db_select_condition_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/4db_mysql_load_from_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/5db_mysql_write_tp_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/6db_mysql_update_from_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/7db_mysql_load_from_csv_with_pk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/7db_select_condition_from_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/data_for_updating2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/student_CRUD(make_DB).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/student_CRUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/1search_for_item_write_found.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/2calculate_statistic_by_category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/3parse_text_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/fine_dust_to_scv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/대구_실시간_미세먼지_2019-09-11_1600.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/대구_실시간_미세먼지_2019-09-16_0900.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/Bigdata_Repository/시뮬레이션_서울특별시_관광지별_방문객1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/Bigdata_Repository/시뮬레이션_서울특별시_관광지별_방문객1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_secret_264035385433-7iq7v4tb73nobnnj6ughp4jcbeubcc6g.apps.googleusercontent.com.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/Bigdata_Repository/시뮬레이션_서울특별시_관광지별_방문객1.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
@@ -58,19 +58,19 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\4. APP" />
+      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\3. DB" />
+      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis" />
+      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\2. Excel" />
+      <recent name="C:\Python_Workspace\04_Application\02_Distributed_Repository" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Python_Workspace\02_Rasberry_Pi\00_server_client" />
       <recent name="C:\Python_Workspace\02_Rasberry_Pi\sensor_acturator" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Regular_Expression\01_Basic" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Regular_Expression\test" />
       <recent name="C:\Python_Workspace" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\3. DB" />
-      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\2. Excel" />
-      <recent name="C:\Python_Workspace\04_Application\02_Distributed_Repository" />
-      <recent name="C:\Python_Workspace\02_Rasberry_Pi" />
-      <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\01_Beautiful_Soup" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -85,8 +85,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.손병찬_빅데이터저장관리_프로그램">
-    <configuration name="손병찬" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="2_statistics_basic (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/손병찬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/2_statistics_basic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +107,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3db_update_rows" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_statistics_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/2_statistics_basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3parse_text_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/3parse_text_file.py" />
+      <option name="PARAMETERS" value="mysql_server_error_log.txt output_files/3output.csv" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9_student_info_standadizatuion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,28 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/3db_update_rows.py" />
-      <option name="PARAMETERS" value="data_for_updating.csv" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4db_delete_row" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/4db_delete_row.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/9_student_info_standadizatuion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_Distributed_Repository" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,32 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/02_Distributed_Repository" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/02_Distributed_Repository/6_Distributed_Repository.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="손병찬_빅데이터저장관리_프로그램" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/손병찬_빅데이터저장관리_프로그램.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,19 +192,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.3db_update_rows" />
-      <item itemvalue="Python.4db_delete_row" />
-      <item itemvalue="Python.손병찬_빅데이터저장관리_프로그램" />
-      <item itemvalue="Python.6_Distributed_Repository" />
-      <item itemvalue="Python.손병찬" />
+      <item itemvalue="Python.9_student_info_standadizatuion" />
+      <item itemvalue="Python.2_statistics_basic" />
+      <item itemvalue="Python.2_statistics_basic (1)" />
+      <item itemvalue="Python.3parse_text_file" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.손병찬_빅데이터저장관리_프로그램" />
-        <item itemvalue="Python.손병찬" />
-        <item itemvalue="Python.6_Distributed_Repository" />
-        <item itemvalue="Python.4db_delete_row" />
-        <item itemvalue="Python.3db_update_rows" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.3parse_text_file" />
+        <item itemvalue="Python.2_statistics_basic (1)" />
+        <item itemvalue="Python.2_statistics_basic" />
+        <item itemvalue="Python.9_student_info_standadizatuion" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568702608341</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="9월 19일">
+      <created>1568881732253</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1568881732253</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -391,7 +398,8 @@
     <MESSAGE value="9월 10일" />
     <MESSAGE value="9월 11일" />
     <MESSAGE value="9월 17일" />
-    <option name="LAST_COMMIT_MESSAGE" value="9월 17일" />
+    <MESSAGE value="9월 19일" />
+    <option name="LAST_COMMIT_MESSAGE" value="9월 19일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -520,15 +528,28 @@
           <line>23</line>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/1search_for_item_write_found.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/1search_for_item_write_found.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/2calculate_statistic_by_category.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/2calculate_statistic_by_category.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="row_list_output" language="Python" />
-        <watch expression="index" language="Python" />
-        <watch expression="f'{base_repository_name}{dir_delimeter}{repository_name}{file_name}1.{file_format}'" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>
