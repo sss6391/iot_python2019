@@ -8,7 +8,7 @@ def get_row_index(search_key):
             break
         else:
             index += 1
-    return index;
+    return index
 
 def print_row(search_key):
     match_row = big_data[get_row_index(search_key)]

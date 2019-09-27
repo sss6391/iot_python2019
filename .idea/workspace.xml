@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b225aa-d776-4024-8784-a60438c760a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/3db_select_condition_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/4db_mysql_load_from_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/5db_mysql_write_tp_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/6db_mysql_update_from_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/7db_mysql_load_from_csv_with_pk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/7db_select_condition_from_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/data_for_updating2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/student_CRUD(make_DB).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/student_CRUD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/1search_for_item_write_found.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/2calculate_statistic_by_category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/3parse_text_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/2_statistics_basic_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_4_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/Bigdata_Repository/시뮬레이션_서울특별시_관광지별_방문객1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/2_statistics_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/2_statistics_basic.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +39,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
@@ -59,11 +53,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\2. Linear Regression Analysis" />
+      <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\1. Basic" />
       <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\4. APP" />
       <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\3. DB" />
       <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis" />
-      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\2. Excel" />
-      <recent name="C:\Python_Workspace\04_Application\02_Distributed_Repository" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Python_Workspace\02_Rasberry_Pi\00_server_client" />
@@ -85,8 +79,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="2_statistics_basic (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.wine_quality_3">
+    <configuration name="wine_quality_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/2_statistics_basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_statistics_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wine_quality_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/2_statistics_basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3parse_text_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wine_quality_4_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,32 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/4. APP/3parse_text_file.py" />
-      <option name="PARAMETERS" value="mysql_server_error_log.txt output_files/3output.csv" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="9_student_info_standadizatuion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/02_Standardization_Analysis/3. DB/9_student_info_standadizatuion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_4_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wine_quality_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,11 +151,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wine_quality_8 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,19 +186,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.9_student_info_standadizatuion" />
-      <item itemvalue="Python.2_statistics_basic" />
-      <item itemvalue="Python.2_statistics_basic (1)" />
-      <item itemvalue="Python.3parse_text_file" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.wine_quality_8 (1)" />
+      <item itemvalue="Python.wine_quality_6" />
+      <item itemvalue="Python.wine_quality_4_5" />
+      <item itemvalue="Python.wine_quality_3" />
+      <item itemvalue="Python.wine_quality_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.3parse_text_file" />
-        <item itemvalue="Python.2_statistics_basic (1)" />
-        <item itemvalue="Python.2_statistics_basic" />
-        <item itemvalue="Python.9_student_info_standadizatuion" />
+        <item itemvalue="Python.wine_quality_3" />
+        <item itemvalue="Python.wine_quality_8 (1)" />
+        <item itemvalue="Python.wine_quality_2" />
+        <item itemvalue="Python.wine_quality_4_5" />
+        <item itemvalue="Python.wine_quality_6" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568881732253</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="9월 26일">
+      <created>1569485445242</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1569485445242</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -399,7 +400,8 @@
     <MESSAGE value="9월 11일" />
     <MESSAGE value="9월 17일" />
     <MESSAGE value="9월 19일" />
-    <option name="LAST_COMMIT_MESSAGE" value="9월 19일" />
+    <MESSAGE value="9월 26일" />
+    <option name="LAST_COMMIT_MESSAGE" value="9월 26일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -550,6 +552,12 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="independent_variables" language="Python" />
+        <watch expression="wine.columns.difference(['quality', 'type'])" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>
