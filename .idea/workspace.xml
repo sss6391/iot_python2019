@@ -2,16 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b225aa-d776-4024-8784-a60438c760a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/2_statistics_basic_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_10_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_318_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_318_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_318_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_319_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_319_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_320_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_320_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_322.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_325.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_exer2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_exer4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/2_statistics_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/1. Basic/2_statistics_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/Bigdata_Repository/TypeA/시뮬레이션_대구광역시_관광지별_방문객1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/Bigdata_Repository/TypeA/시뮬레이션_대구광역시_관광지별_방문객2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/Bigdata_Repository/TypeB/시뮬레이션_대구광역시_관광지별_방문객1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/Bigdata_Repository/TypeB/시뮬레이션_대구광역시_관광지별_방문객2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/Bigdata_Repository/TypeB/시뮬레이션_대구광역시_관광지별_방문객3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/Bigdata_Repository/TypeB/시뮬레이션_대구광역시_관광지별_방문객4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Bigdata/fine_dust_to_scv.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/fine_dust_to_scv.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +50,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
@@ -53,18 +64,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\3. Logistic Regression Analysis" />
       <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\2. Linear Regression Analysis" />
       <recent name="C:\Python_Workspace\03_Bigdata\03_Statistics_basic\1. Basic" />
       <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\4. APP" />
       <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis\3. DB" />
-      <recent name="C:\Python_Workspace\03_Bigdata\02_Standardization_Analysis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\04_Application" />
       <recent name="C:\Python_Workspace\02_Rasberry_Pi\00_server_client" />
       <recent name="C:\Python_Workspace\02_Rasberry_Pi\sensor_acturator" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Regular_Expression\01_Basic" />
       <recent name="C:\Python_Workspace\03_Bigdata\01_Collection\03_Web_crawling\02_Regular_Expression\test" />
-      <recent name="C:\Python_Workspace" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -79,8 +90,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wine_quality_3">
-    <configuration name="wine_quality_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.customer_churn_exer4">
+    <configuration name="customer_churn_325_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_325_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wine_quality_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="customer_churn_exer2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_exer2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wine_quality_4_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="customer_churn_exer4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_4_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_exer4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wine_quality_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wine_quality_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wine_quality_8 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wine_quality_10_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,7 +187,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_10_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,19 +197,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.wine_quality_8 (1)" />
-      <item itemvalue="Python.wine_quality_6" />
-      <item itemvalue="Python.wine_quality_4_5" />
-      <item itemvalue="Python.wine_quality_3" />
-      <item itemvalue="Python.wine_quality_2" />
+      <item itemvalue="Python.wine_quality_10" />
+      <item itemvalue="Python.wine_quality_10_test" />
+      <item itemvalue="Python.customer_churn_exer2" />
+      <item itemvalue="Python.customer_churn_325_test" />
+      <item itemvalue="Python.customer_churn_exer4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wine_quality_3" />
-        <item itemvalue="Python.wine_quality_8 (1)" />
-        <item itemvalue="Python.wine_quality_2" />
-        <item itemvalue="Python.wine_quality_4_5" />
-        <item itemvalue="Python.wine_quality_6" />
+        <item itemvalue="Python.customer_churn_exer4" />
+        <item itemvalue="Python.customer_churn_exer2" />
+        <item itemvalue="Python.wine_quality_10_test" />
+        <item itemvalue="Python.customer_churn_325_test" />
+        <item itemvalue="Python.wine_quality_10" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569485445242</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="9월 27일">
+      <created>1569570992347</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1569570992347</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +419,8 @@
     <MESSAGE value="9월 17일" />
     <MESSAGE value="9월 19일" />
     <MESSAGE value="9월 26일" />
-    <option name="LAST_COMMIT_MESSAGE" value="9월 26일" />
+    <MESSAGE value="9월 27일" />
+    <option name="LAST_COMMIT_MESSAGE" value="9월 27일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -550,12 +569,52 @@
           <line>33</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_318_1.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_318_2.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_325.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_319_2.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_8.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_10.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/2. Linear Regression Analysis/wine_quality_10_test.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Bigdata/03_Statistics_basic/3. Logistic Regression Analysis/customer_churn_exer2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="independent_variables" language="Python" />
-        <watch expression="wine.columns.difference(['quality', 'type'])" language="Python" />
+        <watch expression="combi_list" language="Python" />
+        <watch expression="tup" language="Python" />
       </configuration>
     </watches-manager>
   </component>
