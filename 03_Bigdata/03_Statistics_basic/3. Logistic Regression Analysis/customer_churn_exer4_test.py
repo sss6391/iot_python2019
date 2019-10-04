@@ -15,12 +15,11 @@ churn['total_charges'] = churn['day_charge'] + churn['eve_charge'] + \
 churn['intl_plan'] = np.where(churn['intl_plan'] == 'yes', 1, 0)
 churn['vmail_plan'] = np.where(churn['vmail_plan'] == 'yes', 1, 0)
 
-columns_list = ['account_length', 'area_code', 'intl_plan',
+columns_list = churn[['account_length', 'area_code', 'intl_plan',
        'vmail_plan', 'vmail_message', 'day_mins', 'day_calls', 'day_charge',
        'eve_mins', 'eve_calls', 'eve_charge', 'night_mins', 'night_calls',
        'night_charge', 'intl_mins', 'intl_calls', 'intl_charge',
-       'custserv_calls']
-
+       'custserv_calls', 'total_charges']]
 
 dependent_variable = churn['churn']
 len_columns = len(columns_list)

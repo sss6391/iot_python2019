@@ -29,7 +29,7 @@ new_observations = churn.loc[: , independent_variables.columns]
 new_observations_with_constant = sm.add_constant(new_observations, prepend=True)
 y_predicted = logit_model.predict(new_observations_with_constant)
 y_predicted_rounded = [round(score,0) for score in y_predicted]
-print(y_predicted_rounded)
+# print(y_predicted_rounded)
 logistic_predicted_value_list = []
 
 total_count = 0
